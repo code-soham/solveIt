@@ -1,4 +1,7 @@
+![icon128](https://user-images.githubusercontent.com/77236783/155656961-3e2e7ba7-5f0c-4d20-8e34-990b7c503ad6.png)
+
 # solveIt
+
 Chrome Extension that solves the GuessIt Game efficiently
 
 
